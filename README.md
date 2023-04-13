@@ -9,8 +9,10 @@ My name is Luiz Almeida and I'm a Front-end Engineer. I'm from Brazil, living in
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=C-sharp)
 
 ## ⚙️ Technologies
 
@@ -20,6 +22,7 @@ My name is Luiz Almeida and I'm a Front-end Engineer. I'm from Brazil, living in
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=nestjs)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
 ![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=strapi)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
