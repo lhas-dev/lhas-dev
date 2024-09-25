@@ -1,8 +1,12 @@
-![](./banner.png)
+![](./banner2.png)
 
-## Hello, there! 🙃
+## Welcome aboard
 
-My name is Luiz Almeida and I'm a Front-end Engineer. I'm from Brazil, living in Porto Alegre, RS.
+Luiz Almeida is a Senior Software Engineer with over 14 years of experience building scalable web applications. I started my career in 2010 and have worked with a range of technologies across industries, such as SaaS and e-commerce.
+
+I enjoy working in fast-paced environments where I can solve problems and be creative. Over the years, I’ve focused on delivering smooth user experiences while ensuring the backend is solid and scalable.
+
+I’m seeking new opportunities to bring my skills to dynamic teams and help build innovative, scalable software solutions.
 
 ## 🖥️ Languages
 
@@ -32,23 +36,10 @@ My name is Luiz Almeida and I'm a Front-end Engineer. I'm from Brazil, living in
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=Ruby-on-Rails)
 
-## ✏️ Blog & Writing
-
-Apart from coding, i write tech articles too - you can check my latest articles on [my website](https://blog.underdev.io/).
-
-Some of my featured articles:
-
-- [Publish your website in App Store and Play Store](https://blog.underdev.io/posts/transforme-seu-site-pwa-ou-nao-em-aplicativo/)
-- [TypeScript: What is a Interface and How Should I Use Them?](https://blog.underdev.io/posts/usando-typescript-interfaces/)
-- [How to Use Regular Expressions in JavaScript](https://blog.underdev.io/posts/usando-expressoes-regulares-javascript/)
-
 ## 🧑 Personal Life
 
-I live with my wife and my daughter Ruby (yes, we called her with this name because of the programming language).
 
-Also, I have 4 cats (Frida, Dali, Vampire and Little Noise). 🐱
-
-My main hobby is practice Brazilian Jiu-jitsu. I'm a Blue Belt. 🥋🔵
+My main hobbies are cooking, growing plants and practicing some BJJ (Brazilian Jiu-jitsu). I'm a Purple Belt. 🥋💜
 
 ## 💭 Preferred Quote
 
