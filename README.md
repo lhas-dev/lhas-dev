@@ -1,6 +1,6 @@
 ![](./banner2.png)
 
-## Welcome aboard
+## Welcome aboard!
 
 Luiz Almeida is a Senior Software Engineer with over 14 years of experience building scalable web applications. I started my career in 2010 and have worked with a range of technologies across industries, such as SaaS and e-commerce.
 
